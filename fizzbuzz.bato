@@ -7,6 +7,8 @@ bilang FizzBuzz
 
     kapag numero % 3 == 0
       iprint 'Fizz'
+    kung_kapag numero % 5 == 0
+      iprint 'Buzz'
     kung_hindi
       iprint numero
     wakas
@@ -19,3 +21,4 @@ wakas
 fizzbuzz = FizzBuzz.gumawa
 fizzbuzz.fizzbuzz(1)
 fizzbuzz.fizzbuzz(3)
+fizzbuzz.fizzbuzz(5)
