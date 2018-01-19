@@ -1,1 +1,16 @@
 iprint "kumusta"
+
+bilang FizzBuzz
+
+  # ang = 'def' in bato
+  ang fizzbuzz(numero)
+
+    iprint numero
+
+  wakas
+
+
+wakas
+
+fizzbuzz = FizzBuzz.gumawa
+fizzbuzz.fizzbuzz(1)
