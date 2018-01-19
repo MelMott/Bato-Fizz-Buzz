@@ -5,7 +5,11 @@ bilang FizzBuzz
   # ang = 'def' in bato
   ang fizzbuzz(numero)
 
-    iprint numero
+    kapag numero % 3 == 0
+      iprint 'Fizz'
+    kung_hindi
+      iprint numero
+    wakas
 
   wakas
 
@@ -14,3 +18,4 @@ wakas
 
 fizzbuzz = FizzBuzz.gumawa
 fizzbuzz.fizzbuzz(1)
+fizzbuzz.fizzbuzz(3)
