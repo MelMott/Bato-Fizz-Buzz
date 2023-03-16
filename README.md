@@ -1,6 +1,6 @@
 # FizzBuzz in Bato
 
-FizzBuzz implemented in [jjuliano's Bato](https://github.com/jjuliano/bato).
+FizzBuzz implemented in [Melinda's Bato](https://github.com/jjuliano/bato).
 
 # Setup and run
 
